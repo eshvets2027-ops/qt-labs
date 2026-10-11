@@ -1,0 +1,11 @@
+{
+  "current": {
+    "time": "2026-10-11T12:00",
+    "temperature_2m": 12.5,
+    "wind_speed_10m": 8.2
+  },
+  "current_units": {
+    "temperature_2m": "°C",
+    "wind_speed_10m": "km/h"
+  }
+}
